@@ -1,0 +1,15 @@
+git:
+	gitee
+	github
+	gitlab
+	dev.azure.com
+
+
+website
+
+
+newsmth
+weixin
+weibo
+facebook
+twitter
